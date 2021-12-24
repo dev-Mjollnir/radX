@@ -1,3 +1,3 @@
-# radX
-radiation detector by location
+# radX\
+radiation detector by location\
 a react native project
